@@ -22,12 +22,14 @@ h1{
 
 
 .mainBox{
-    width: 50%;
+    width: 500px;
     background-color: blue;
     display: grid;
     justify-content: space-around;
     align-items: center;
-    height: 80%;
+    height: 550px;
+    border-radius: 30px;
+    border: solid #f8f8f8 2px;
 }
 .mainBox form{
     display: grid;
